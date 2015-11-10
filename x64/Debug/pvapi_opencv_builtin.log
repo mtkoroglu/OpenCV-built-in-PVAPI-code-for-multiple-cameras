@@ -1,0 +1,13 @@
+﻿Build started 11/1/2015 8:17:47 PM.
+     1>Project "C:\Users\Muhammed\Desktop\pvapi_opencv_builtin\pvapi_opencv_builtin.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Muhammed\Desktop\OpenCV 3.0.0 built by CMake\OpenCV\build\install\include" /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Muhammed\Desktop\pvapi_opencv_builtin\x64\Debug\pvapi_opencv_builtin.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Muhammed\Desktop\OpenCV 3.0.0 built by CMake\OpenCV\build\install\x64\vc14\lib" opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videostab300d.lib opencv_videoio300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Muhammed\Desktop\pvapi_opencv_builtin\x64\Debug\pvapi_opencv_builtin.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Muhammed\Desktop\pvapi_opencv_builtin\x64\Debug\pvapi_opencv_builtin.lib" /MACHINE:X64 x64\Debug\main.obj
+         pvapi_opencv_builtin.vcxproj -> C:\Users\Muhammed\Desktop\pvapi_opencv_builtin\x64\Debug\pvapi_opencv_builtin.exe
+     1>Done Building Project "C:\Users\Muhammed\Desktop\pvapi_opencv_builtin\pvapi_opencv_builtin.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89
